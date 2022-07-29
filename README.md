@@ -1,0 +1,1 @@
+Processing an image. Converting image to Luv color Scheme, to grey. Applies Gaussian, Median and an Individual filter.To change parameters of Gaussian filter put them in corresponding boxes.
