@@ -1,3 +1,7 @@
 main.spec
 /.idea
 /dist
+/build
+/dist
+/.idea
+/main.spec
