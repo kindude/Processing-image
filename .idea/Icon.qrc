@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="windowIcon">
+    <file>icons8-пустой-фильтр-50.png</file>
+  </qresource>
+</RCC>
